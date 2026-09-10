@@ -34,7 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate with each other. The real-life communication example helped me understand why computers need agreed rules to exchange information correctly.
+
 
 ---
 
@@ -59,8 +60,17 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
-
+A user from anywhere in the world can access the EpicReads website hosted in Finland.
+The request travels through the Internet using packet switching.
+The data is divided into smaller packets instead of being sent as one large message.
+These packets can take different paths through the network.
+At the destination, the packets are put back together to form the original data.
+The EpicReads server has an IP address, which identifies the server on the network.
+TCP/IP provides the basic rules for communication over the Internet.
+TCP makes sure that the data reaches the destination reliably and in the correct order.
+IP is responsible for addressing and routing the packets to the correct destination.
+HTTP or HTTPS is used for communication between the browser and the web server.
+HTTPS is preferred because it encrypts the communication and helps protect the data being exchanged.
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
@@ -102,18 +112,17 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+HTML, CSS, JavaScript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node.js
+Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+PostgreSQL
+MySQL
 
 ---
 
@@ -142,7 +151,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) translates human-readable domain names into IP addresses that computers can use to locate servers. Instead of remembering an IP address such as 52.172.142.222, users can simply enter epicreads.com in their browser.
+
+An A record should be used because it maps a domain name to an IPv4 address. Therefore, epicreads.com can have an A record pointing to 52.172.142.222. The :3000 part represents the application's port and is not included in the A record.
 
 ---
 
@@ -247,19 +258,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+understanding these concepts were easy
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Figuring out and getting used to this setup
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+i will start my work earlier and do it better.
 
 ---
 
