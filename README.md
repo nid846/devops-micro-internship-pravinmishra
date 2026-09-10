@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Nidhi Unnikrishnan |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
+| **LinkedIn** | www.linkedin.com/in/nidhi-unnikrishnan-parayil-b99029394 |
 | **Location** | Coimbatore |
 | **Background** | Student |
 | **Goal** | Secure a software engineering job |
@@ -57,7 +57,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 *Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+*Share your stack:* `https://github.com/nid846/devops-micro-internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
 
