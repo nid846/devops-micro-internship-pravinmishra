@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that not knowing something is completely okay. Sometimes people are scared to say that they don't understand something because they think others will judge them. I have also done this sometimes. But I feel that asking questions and admitting that you don't know something actually helps you learn faster.
+
 
 ---
 
@@ -55,11 +56,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Practice helps me learn better than just studying
 
 ### Evidence from my life
 
-Add your answer here...
+When I only read about programming, I thought I understood it. When I actually started writing code, I found many mistakes. Practicing helped me understand it better.
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+I work better when I start early.
 
 ### Evidence from my life
 
-Add your answer here...
+I have delayed assignments before and had to rush at the end. When I started earlier, I had more time to complete and check my work.
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Taking breaks helps me focus for longer.
 
 ### Evidence from my life
 
-Add your answer here...
+When I studied continuously for a long time, I became distracted. Taking short breaks helped me come back and focus better.
 
 ---
 
@@ -145,7 +146,16 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+A few years from now, I had become more confident and independent in my career. I had worked on real projects and built things that I could actually show people.
+
+I had a good GitHub profile with my projects and had learned technologies like JavaScript, Node.js, databases, AWS and DevOps. I had also improved my communication and problem-solving skills.
+
+I had worked with different people, taken part in technical activities and shared some of the things I learned online.
+
+I had also become better at managing my time and money. I was still learning and making mistakes, but I was much more confident than before.
+
+Overall, I had become someone who could learn something new, work on it and actually finish it.
+
 
 ### Public Link
 
@@ -183,7 +193,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt guilty and stressed because I knew I had taken an easy way out. It felt good for a short time because the work was finished, but later I didn't feel good about it. I realised that shortcuts are not always worth it.
+
 
 ---
 
@@ -209,16 +220,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits
+2. The Psychology of Money
+3. Deep Work
+4. Ikigai
+5. Mindset
+6. Make Time
+7. The 7 Habits of Highly Effective People
+8. How to Win Friends and Influence People
+9. So Good They Can't Ignore You
+
 
 ---
 
@@ -247,16 +258,11 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Skills learned
+* Projects completed
+* GitHub activity.
+* Money saved
+
 
 ---
 
@@ -278,11 +284,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+I wrote down the tasks, ideas and things I needed to remember.
 
 ---
 
@@ -300,7 +306,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Weekdays: Learning and regular work
+Tuesday & Thursday: DMI
+Saturday: DMI/project work
+Sunday: Review and planning
 
 ---
 
@@ -308,11 +317,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Days: Tuesday, Thursday and Saturday
+Time: 8 PM on weekdays, 10 AM on Saturday
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+3 per week
 
 ---
 
@@ -326,7 +336,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away while working.
 
 ---
 
@@ -334,15 +344,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realised that I spend too much time thinking about doing something instead of actually starting it.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I get distracted easily and sometimes procrastinate even when I know I have work to do.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will spend one hour every day without my phone and use that time to finish one important task.
 
 ### LinkedIn Post
 
